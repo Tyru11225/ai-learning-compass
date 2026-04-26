@@ -1,0 +1,72 @@
+- title: Generative AI for Everyone
+  teacher: Andrew Ng
+  platform: DeepLearning.AI / Coursera
+  language: English
+  suitable_for:
+    - AI 认知入门
+    - 非技术用户
+    - 产品和管理者
+  difficulty: beginner
+  topics:
+    - Generative AI
+    - AI Applications
+    - AI Product Thinking
+  recommendation_reason: 适合零基础用户建立生成式 AI 的整体认知。
+
+- title: Machine Learning Specialization
+  teacher: Andrew Ng
+  platform: Coursera
+  language: English
+  suitable_for:
+    - 机器学习入门
+    - 有一定数学和编程基础的人
+  difficulty: beginner_to_intermediate
+  topics:
+    - Supervised Learning
+    - Unsupervised Learning
+    - Neural Networks
+  recommendation_reason: 适合系统学习机器学习基础。
+
+- title: 李宏毅机器学习课程
+  teacher: 李宏毅
+  platform: YouTube / 课程主页
+  language: Chinese
+  suitable_for:
+    - 中文学习者
+    - 大学生
+    - 想理解 AI 原理的人
+  difficulty: beginner_to_intermediate
+  topics:
+    - Machine Learning
+    - Deep Learning
+    - Transformer
+    - LLM
+  recommendation_reason: 中文讲解清晰，适合学生系统理解机器学习和大模型基础。
+
+- title: 动手学深度学习
+  teacher: 李沐
+  platform: d2l.ai
+  language: Chinese
+  suitable_for:
+    - 有 Python 基础的人
+    - 想通过代码学习深度学习的人
+  difficulty: intermediate
+  topics:
+    - Deep Learning
+    - PyTorch
+    - Neural Networks
+  recommendation_reason: 适合通过代码实践理解深度学习。
+
+- title: Hugging Face Agents Course
+  teacher: Hugging Face
+  platform: GitHub / Hugging Face
+  language: English
+  suitable_for:
+    - 想学习 Agent 的人
+    - 想做 AI 应用开发的人
+  difficulty: intermediate
+  topics:
+    - Agents
+    - LLM Tools
+    - Open Source Models
+  recommendation_reason: 适合学习开源 Agent 应用开发。
