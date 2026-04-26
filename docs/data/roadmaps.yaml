@@ -1,0 +1,62 @@
+- id: beginner_to_ai_app
+  title: 零基础到 AI 应用开发
+  target_users:
+    - AI 小白
+    - 大学生
+    - AI 应用开发初学者
+  duration: 30_days
+  difficulty: beginner
+  goal: 帮助用户从零开始理解 AI，并完成一个简单的 AI 应用 Demo。
+  stages:
+    - week: 1
+      name: AI 基础认知与 Prompt 入门
+      objectives:
+        - 理解人工智能、大语言模型、Prompt、RAG、Agent 的基本概念
+        - 学会使用 AI 工具辅助学习和资料整理
+      tasks:
+        - 学习 AI 基础概念
+        - 完成 10 个 Prompt 练习
+        - 整理 3 个 AI 项目选题
+      output:
+        - AI 学习笔记
+        - AI 项目选题清单
+
+    - week: 2
+      name: Python 与大模型 API 入门
+      objectives:
+        - 理解 API、JSON、模型调用的基本概念
+        - 完成一个简单 AI 问答 Demo
+      tasks:
+        - 复习 Python 基础
+        - 学习 API 调用流程
+        - 编写命令行 AI 问答程序
+      output:
+        - 简单 AI 问答 Demo
+        - GitHub 代码仓库初版
+
+    - week: 3
+      name: RAG 知识库应用
+      objectives:
+        - 理解 RAG 的基本流程
+        - 实现基于资料的问答功能
+      tasks:
+        - 准备一份学习资料
+        - 学习文档切分和检索
+        - 构建一个简单知识库问答 Demo
+      output:
+        - AI 学习资料问答助手 Demo
+
+    - week: 4
+      name: AI 学习指南针 Demo
+      objectives:
+        - 完成一个 AI 学习路线规划 Agent 原型
+        - 能根据用户输入生成学习计划
+      tasks:
+        - 设计用户输入表单
+        - 编写路线生成 Prompt
+        - 推荐老师和课程
+        - 输出 30 天学习计划
+      output:
+        - AI 学习指南针 Demo
+        - README 项目说明
+        - 示例学习路线
