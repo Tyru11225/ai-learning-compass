@@ -1,0 +1,43 @@
+- id: ai_learning_compass
+  title: AI 学习指南针
+  suitable_for:
+    - 大学生
+    - AI 小白
+    - AI 应用开发初学者
+  difficulty: beginner
+  goal: 帮助用户根据基础、目标和时间生成个性化 AI 学习路线。
+  features:
+    - 学习画像诊断
+    - 30 天学习路线生成
+    - 老师和课程推荐
+    - 项目实践建议
+    - 下一步行动清单
+  tech_stack:
+    - Python
+    - Streamlit
+    - YAML
+    - LLM API
+  output:
+    - 一个可运行的 AI 学习路线规划 Demo
+    - 一个 GitHub 开源项目
+    - 一份可展示的项目说明文档
+
+- id: ai_knowledge_base_qa
+  title: AI 学习资料问答助手
+  suitable_for:
+    - 想学习 RAG 的用户
+    - 有一点 Python 基础的学生
+  difficulty: beginner_to_intermediate
+  goal: 构建一个可以基于指定资料回答问题的知识库问答助手。
+  features:
+    - 上传学习资料
+    - 文档切分
+    - 内容检索
+    - 基于资料回答问题
+  tech_stack:
+    - Python
+    - Streamlit
+    - RAG
+    - Vector Database
+  output:
+    - 一个简单的资料问答机器人 Demo
