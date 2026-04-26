@@ -1,0 +1,67 @@
+- name: 吴恩达 Andrew Ng
+  type: teacher
+  language: English / Chinese subtitles
+  suitable_for:
+    - AI 认知入门
+    - 机器学习基础
+    - 非技术用户
+  topics:
+    - Generative AI
+    - Machine Learning
+    - AI Product Thinking
+  difficulty: beginner
+  recommendation_reason: 适合建立 AI 基础认知和机器学习整体框架。
+
+- name: 李宏毅
+  type: teacher
+  language: Chinese
+  suitable_for:
+    - 中文学习者
+    - 想系统理解机器学习的人
+    - 想学习大模型基础的人
+  topics:
+    - Machine Learning
+    - Deep Learning
+    - Transformer
+    - LLM
+  difficulty: beginner_to_intermediate
+  recommendation_reason: 中文讲解清晰，适合想系统学习 AI 原理的学生。
+
+- name: 李沐
+  type: teacher
+  language: Chinese
+  suitable_for:
+    - 想动手学深度学习的人
+    - 有一定 Python 基础的人
+  topics:
+    - Deep Learning
+    - PyTorch
+    - Neural Networks
+  difficulty: intermediate
+  recommendation_reason: 适合通过代码实践理解深度学习。
+
+- name: Andrej Karpathy
+  type: teacher
+  language: English
+  suitable_for:
+    - 程序员
+    - 想理解神经网络和大模型底层原理的人
+  topics:
+    - Neural Networks
+    - GPT
+    - Language Models
+  difficulty: intermediate_to_advanced
+  recommendation_reason: 适合想深入理解大模型原理和代码实现的人。
+
+- name: Hugging Face
+  type: platform
+  language: English
+  suitable_for:
+    - 想学习大模型应用的人
+    - 想学习 Agent 和模型部署的人
+  topics:
+    - Transformers
+    - Agents
+    - Open Source Models
+  difficulty: intermediate
+  recommendation_reason: 适合学习开源模型生态和 AI 应用实践。
